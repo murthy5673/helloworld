@@ -1,15 +1,10 @@
-<h1 align=center> Hello, Welcome to DevOps World </h1>
-<h6> Hello, Welcome to DevOps World - Automation test 5!!! </h6>
+<h1 align=center> Hello, Welcome to DevOps World  Using Jenkins & Ansible </h1>
+
 <br>
-<h5> Hello, Welcome to DevOps World - Automation test 4!!! </h5>
+<H2> Code commit</H2>
 <br>
-<h4> Hello, Welcome to DevOps World - Automation test 3!!! </h4>
+<H3> Build in Jenins </H3>
 <br>
-<h3> Hello, Welcome to DevOps World - Automation test 2!!! </h3>
-<br>
-<h2> Hello, Welcome to DevOps World - Automation test 1!!! </h2>
-<br>
-<br>
-<br>
+<H4> Deploy with Ansible </H4>
 <h2 align=right> Thank you, Automation Team</h2>
 
