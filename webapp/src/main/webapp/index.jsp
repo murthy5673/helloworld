@@ -1,5 +1,5 @@
 <h1 align=center> Hello, Welcome to DevOps World!!!!</h1>
-<h2> Good Morning Sabiha</h2>
+
 <!--
 
 <H2> Code commit - GitHub</H2>
