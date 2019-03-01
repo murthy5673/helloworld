@@ -8,9 +8,10 @@
 <H4> Deploy to tomcat </H4>
 <br>
 -->
-<h2 align=center> Simple CICD    Branch prj1 </h2>
+<h2 align=center> Simple CICD </h2>
 <br>
 <br>
+<h2 align=center> Simple CICD    build from Branch prj1 </h2>
 <br>
 <h2 align=right> Thank you, Automation Team</h2>
 
